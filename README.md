@@ -4,6 +4,6 @@
 
 ![A screenshot of the game](artifacts_screenshot.png?raw=true "A screenshot of the game")
 
-It was developed for Ludum Dare 40.
+It was developed for **Ludum Dare 40**, "**The more you have, the worse it is**".
 
-You can play the game here: https://ldjam.com/events/ludum-dare/40/artifacts
+You can find more info here: https://ldjam.com/events/ludum-dare/40/artifacts
